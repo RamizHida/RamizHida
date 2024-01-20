@@ -19,12 +19,11 @@ I'm Ramiz Hida, a Full Stack Web Developer.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![SQL Badge](https://img.shields.io/badge/-SQL-red?style=for-the-badge&labelColor=black&logo=sql&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) ![MongoDB Badge](https://img.shields.io/badge/-MONGODB-green?style=for-the-badge&labelColor=black&logo=MONGODB&logoColor=23239)
 
 ### Skills
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
+<img align="left" alt="React" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -48,12 +47,7 @@ I'm Ramiz Hida, a Full Stack Web Developer.
 
 #### Bizness
 
-- :paperclip: [My Resume/CV]()
 - :email: ramizhida00@gmail.com
-
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ramizhida&left_color=green&right_color=red)
 
 <details>
 <summary>
@@ -64,14 +58,9 @@ I'm Ramiz Hida, a Full Stack Web Developer.
 
 I enjoy learning new technologies and building excitings applications!
 
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 #### Github Stats
 
-![Ramiz's github stats](![Ramiz Hida's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramizhida&hide=contribs,prs,issues,stars&theme=tokyonight))
+![Ramiz Hida's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramizhida&hide=contribs,prs,issues,stars&theme=tokyonight)
 
 </details>
 
