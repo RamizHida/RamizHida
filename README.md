@@ -13,7 +13,7 @@ I'm Ramiz Hida, a Full Stack Web Developer.
 
 - 📫 How to reach me: ramizhida00@gmail.com.
 
-- :monocle_face: At the moment, I'm learning about cloud computing with Amazon Web Services (AWS). 
+- :monocle_face: At the moment, I'm just building some things.
 
 - ⚡ Fun fact: I like UNO (the card game), but am horrible at it.
 
