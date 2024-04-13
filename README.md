@@ -2,7 +2,7 @@
 
 🚀 Check out my Portfolio [https://ramizhida.github.io/portfolio-website/](https://ramizhida.github.io/portfolio-website/)
 
-I'm Ramiz Hida, a Full Stack Web Developer.
+I'm Ramiz Hida, a Full Stack Web Developer currently open to new work opportunities. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ramiz-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramiz-hida/) [![Mail Badge](https://img.shields.io/badge/-ramizhida-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ramizhida00@gmail.com)
 
