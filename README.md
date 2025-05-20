@@ -2,18 +2,16 @@
 
 🚀 Check out my Portfolio [https://ramizhida.github.io/portfolio-website/](https://ramizhida.github.io/portfolio-website/)
 
-I'm Ramiz Hida, a Full Stack Web Developer currently open to new work opportunities. 
-
 [![Linkedin Badge](https://img.shields.io/badge/-Ramiz-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramiz-hida/) [![Mail Badge](https://img.shields.io/badge/-ramizhida-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ramizhida00@gmail.com)
 
 ### What I currently Do
 
-- 🔭 I’m currently open to FullStack or Frontend Positions.
+- 🔭 I’m currently improving my German :wink:.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 
 - 📫 How to reach me: ramizhida00@gmail.com.
 
-- :monocle_face: At the moment, I'm just building some things.
+- :monocle_face: At the moment, I'm exploring (more digitally than physically).
 
 - ⚡ Fun fact: I like UNO (the card game), but am horrible at it.
 
@@ -58,11 +56,7 @@ I'm Ramiz Hida, a Full Stack Web Developer currently open to new work opportunit
 
 <br >
 
-I enjoy learning new technologies and building excitings applications!
-
-#### Github Stats
-
-![Ramiz Hida's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramizhida&hide=contribs,prs,issues,stars&theme=tokyonight)
+I enjoy reading and cold drinks on warm days. 
 
 </details>
 
